@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	margin: 0;
+	padding: 0;
+}
+
+.box {
+	width: 200px;
+	height: 200px;
+}
+
+#pink {
+	background-color: #EE3E64
+}
+
+#blue {
+	background-color: #2B7DB9;
+	position: relative;
+	left: 200px;
+}
+
+#green {
+	background-color: #B7D84B
+}
